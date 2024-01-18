@@ -1,3 +1,8 @@
+
+Modified to work with Ox Inventory and Ox Target by Quake
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T8KZZF4)
+
+
 # QB-Banking
 
 ## Features
